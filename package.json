@@ -62,5 +62,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elia-epita/collaborative-tooling-g1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elia-epita/collaborative-tooling-g1/issues"
+  },
+  "homepage": "https://github.com/elia-epita/collaborative-tooling-g1#readme"
 }
